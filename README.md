@@ -21,10 +21,3 @@ This project is an API test automation suite for a Grocery Store application, bu
 - **Newman CLI** – For running Postman collections from the command line
 
 ---
-
-## 🚀 How to Run Locally
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR-USERNAME/grocery-api-automation.git
-cd grocery-api-automation
